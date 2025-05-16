@@ -1,9 +1,1 @@
-{
-  "name": "Controle de Clientes",
-  "short_name": "Clientes",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563EB",
-  "icons": []
-}
+{ "name": "Controle de Clientes" }
